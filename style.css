@@ -32,7 +32,7 @@ header {
 }
 
 .photo-credits {
-    font-size: 15px;
+    font-size: 10px;
 }
 
 .table-head {
@@ -45,4 +45,24 @@ th {
 
 .table-blue {
     background-color: #b1e5f2;
+}
+
+h4 {
+    color: #808080;
+}
+
+#ad1 {
+    color: white;
+    background-image: url(./img/monitor.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+}
+
+#ad2 {
+    color: white;
+    background-image: url(./img/graph.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 150px;
 }
