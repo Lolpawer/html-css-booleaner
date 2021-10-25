@@ -1,11 +1,36 @@
 header {
     background: #4ea0ff url("./img/pattern.png");
-    background-size: auto;
-    height: 175px;
-    font-size: 175px; /* Questo mette il logo in basso a sinistra */
+    background-size: 50% 200%;
+    height: 100px;
+    font-size: 100px; /* Questo mette il logo in basso a sinistra */
 }
 
-#logo {
-    width: 300px;
+.logo {
+    width: 200px;
     margin-left: 10px;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.subtitle {
+    color: #808080;
+}
+
+#author {
+    color: #76caef;
+}
+
+#image-container {
+    display: table;
+}
+
+.images {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.photo-credits {
+    font-size: 15px;
 }
