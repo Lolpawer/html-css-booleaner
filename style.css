@@ -34,3 +34,15 @@ header {
 .photo-credits {
     font-size: 15px;
 }
+
+.table-head {
+    background-color: #20a9e5;
+}
+
+th {
+    color: white;
+}
+
+.table-blue {
+    background-color: #b1e5f2;
+}
