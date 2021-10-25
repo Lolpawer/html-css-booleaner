@@ -1,0 +1,11 @@
+header {
+    background: #4ea0ff url("./img/pattern.png");
+    background-size: auto;
+    height: 175px;
+    font-size: 175px; /* Questo mette il logo in basso a sinistra */
+}
+
+#logo {
+    width: 300px;
+    margin-left: 10px;
+}
